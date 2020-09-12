@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1st-week/Add99Table/Add99Table.iml" filepath="$PROJECT_DIR$/1st-week/Add99Table/Add99Table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1st-week/CountDigit/CountDigit.iml" filepath="$PROJECT_DIR$/1st-week/CountDigit/CountDigit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1st-week/JudgeSign/JudgeSign.iml" filepath="$PROJECT_DIR$/1st-week/JudgeSign/JudgeSign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1st-week/Max3m/Max3m.iml" filepath="$PROJECT_DIR$/1st-week/Max3m/Max3m.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1st-week/Median/Median.iml" filepath="$PROJECT_DIR$/1st-week/Median/Median.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1st-week/Multi99Table/Multi99Table.iml" filepath="$PROJECT_DIR$/1st-week/Multi99Table/Multi99Table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1st-week/PrintSquare/PrintSquare.iml" filepath="$PROJECT_DIR$/1st-week/PrintSquare/PrintSquare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1st-week/SumFor/SumFor.iml" filepath="$PROJECT_DIR$/1st-week/SumFor/SumFor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1st-week/SumForPos/SumForPos.iml" filepath="$PROJECT_DIR$/1st-week/SumForPos/SumForPos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1st-week/SumWhile/SumWhile.iml" filepath="$PROJECT_DIR$/1st-week/SumWhile/SumWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/algorithm-study.iml" filepath="$PROJECT_DIR$/.idea/algorithm-study.iml" />
+    </modules>
+  </component>
+</project>
