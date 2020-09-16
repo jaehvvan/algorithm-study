@@ -25,6 +25,7 @@ public class Med3 {
             return b;
         return c;
     }
+
     /* 최악의 경우에도 3번의 조건 판단 이후에 결과가 도출되는 med3 함수와 달리,
     noMed3 함수는 8번에 걸친 조건 판단 끝에 결과가 나올 수도 있다.
     ex) true, false, true, false, true, false, true, false */
