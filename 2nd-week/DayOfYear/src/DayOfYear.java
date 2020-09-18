@@ -1,6 +1,26 @@
 import java.util.Scanner;
 
 public class DayOfYear {
+    class YMD {
+        int y;
+        int m;
+        int d;
+
+        public YMD(int y, int m, int d) {
+            this.y = y;
+            this.m = m;
+            this.d = d;
+        }
+
+        int after(int n) {
+            return dayOfYear(y, m, d) + n;
+        }
+
+        int before(int n) {
+            return dayOfYear(y, m, d) - n;
+        }
+    }
+
     static int[][] mdays = {
             {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31},   //평년
             {31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31}    // 윤년
