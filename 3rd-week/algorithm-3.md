@@ -32,3 +32,15 @@ System.out.println(String.format("%%%ds", 3))       // "%3s"
 // String.format()과 printf()의 조합
 System.out.printf(String.format("%%%ds", 3), "*")   // "  *"
 ```
+
+##### ++의 활용
+```
+// 1번
+Array[count] = num;
+count++;
+
+// 2번
+Array[count++] = num;
+
+// 1번과 2번의 결과는 동일하다.
+```
