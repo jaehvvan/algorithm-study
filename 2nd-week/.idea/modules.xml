@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/2nd-week.iml" filepath="$PROJECT_DIR$/.idea/2nd-week.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaxOfArrayRand/MaxOfArrayRand.iml" filepath="$PROJECT_DIR$/MaxOfArrayRand/MaxOfArrayRand.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReverseArray/ReverseArray.iml" filepath="$PROJECT_DIR$/ReverseArray/ReverseArray.iml" />
+    </modules>
+  </component>
+</project>

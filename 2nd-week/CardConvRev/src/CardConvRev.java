@@ -11,7 +11,16 @@ public class CardConvRev {
             d[digits++] = '0';
         }
 
+        // Q7.
+        System.out.printf("%2d|     %2d\n", r, x);
+        System.out.println("  + ------");
         while (x != 0) {
+            if (x / r != 0) {
+                System.out.printf("%2d|     %2d   ...   %2d\n", r, x / r, x % r);
+                System.out.println("  + ------");
+            } else if (x / r == 0) {
+                System.out.printf("        %2d   ...   %2d\n", x / r, x % r);
+            }
             d[digits++] = dChar.charAt(x % r);
             x /= r;
         }
