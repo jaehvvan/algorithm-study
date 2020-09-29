@@ -37,9 +37,6 @@ int main() {
 8. z 메서드가 실행을 종료하고 main 메서드로 돌아옵니다.
 9. main 메서드가 실행을 종료합니다.
 
-<br>
-<img src="stack.jpg" width="1452" height="1101" alt="stack">
-
-
-
-![stack](stack.jpg){:width="300px" height="200px"}
+<p align="center">
+<img src="stack.jpg" width="500" height="300" alt="stack">
+</p>
