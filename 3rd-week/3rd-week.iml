@@ -3,7 +3,9 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SeqSearchFor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SeqSearchIndex" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BinarySearchTester" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
