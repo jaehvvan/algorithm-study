@@ -77,6 +77,7 @@ public class Gstack_04_02<E> {
 		return ptr <= 0;
 	}
 
+
 	// 스택이 가득 찼는가?
 	public boolean isFull() {
 		return ptr >= max;

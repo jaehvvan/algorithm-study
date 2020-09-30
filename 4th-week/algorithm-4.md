@@ -38,6 +38,10 @@ int main() {
 9. main 메서드가 실행을 종료합니다.
 
 <p align="center">
-<img src="stack.jpg" width="700" height="500" alt="stack">
+<img src="stack.jpg" width="700" height="550" alt="stack">
 </p>
+
+##### enum 이란..?
+
+
 
